@@ -2,6 +2,8 @@ Minimal `comtypes` python script to expose webcam settings. Currently allows use
 
 No usage restrictions, but feel free to star this if you like it.
 
+Requires Windows, tested using Python 3.12 and comtypes 1.4.11
+
 ### Install Dependencies
   ```
   pip install comtypes
